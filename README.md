@@ -1,1 +1,5 @@
-# Project2
+# Assignment2
+
+## 팀장
+
+## 팀원

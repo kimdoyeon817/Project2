@@ -62,19 +62,19 @@ void datecmp(){
     printf("date compare\n");
 
     if(time1->tm_mon > time2->tm_mon){
-	printf("text2 is early\n");
+	printf("text2 is early\n\n");
     }
     else if(time1->tm_mon < time2->tm_mon){
-	printf("text1 is early\n");
+	printf("text1 is early\n\n");
     }
     else if(time1->tm_mday > time2->tm_mday){
-	printf("text2 is early\n");
+	printf("text2 is early\n\n");
     }
     else if(time1->tm_mday < time2->tm_mday){
-	printf("text1 is early\n");
+	printf("text1 is early\n\n");
     }
     else{
-	printf("same date\n");
+	printf("same date\n\n");
     }
 }
 

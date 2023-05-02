@@ -89,7 +89,7 @@ void timecmp(){
 	printf("text2 is early\n");
     }
     else{
-	printf("same time"\n);
+	printf("same time\n");
     }
 
 }
